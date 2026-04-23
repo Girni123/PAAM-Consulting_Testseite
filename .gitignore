@@ -1,1 +1,3 @@
 do-not-upload/
+.gitignore
+.DS_Store
